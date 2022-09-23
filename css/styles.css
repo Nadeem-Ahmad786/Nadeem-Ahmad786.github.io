@@ -50,18 +50,16 @@ p{
 }
 .top-cloud{
   position: absolute;
-  right:300px;
+  right:200px;
   top: 40px;
 }
-
 .bottom-cloud{
   position:absolute;
-  left:250;
-  bottom:300px;
+  left:200;
+  bottom:280px;
 
 }
 .top-container{
-/*  background-color: #A6E3E9;*/
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
@@ -75,7 +73,6 @@ p{
   background-color: #66BFBF;
    padding: 50px 0 20px;
 }
-
 .pro{
   text-decoration: underline;
 }
@@ -84,7 +81,7 @@ p{
 }
 .skill-row{
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 100px auto;
   text-align: left;
 }
 .python{
@@ -125,4 +122,5 @@ p{
 .copy-right{
   color: #EAF6F6;
   font-size: 0.75rem;
+  padding: 20px 0;
 }
