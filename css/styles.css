@@ -124,3 +124,9 @@ p{
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
+@media screen and (max-width: 600px) {
+  .mountain {
+    width: 60%;
+  }
+}
